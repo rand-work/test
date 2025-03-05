@@ -1,0 +1,27 @@
+@charset "utf-8";
+body {
+    font-family: "Moon Dance";
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+  
+
+.text {
+    position: absolute;
+    mix-blend-mode: hard-light;
+    color: pink;
+    font-size: 150px;
+    font-weight: bold;
+    top: 10px;
+    left: 600px;
+}
+
+img {
+    width: 960px;
+    height: auto;
+    filter:
+    saturate(129%)
+    contrast(115%);
+}
